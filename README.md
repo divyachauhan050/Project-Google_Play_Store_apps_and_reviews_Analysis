@@ -6,7 +6,7 @@ In this project, I conducted a comprehensive analysis of the Android app market 
 About the datasets:
 I have used two different datasets (courtesy of Datacamp).
 
-1. **‘apps.csv’** contains the details about the .
+1. **‘apps.csv’** contains all the details of the apps on Google Play. These are the features that describe an app.
 
-2. **‘user_reviews.csv’** contains . 
+2. **‘user_reviews.csv’** contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score. 
 
