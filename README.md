@@ -10,3 +10,9 @@ I have used two different datasets (courtesy of Datacamp).
 
 2. **‘user_reviews.csv’** contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score. 
 
+## Key Findings
+
+**Business Question that I try to answer: "What characteristics enable a business to stand the test of time?"**
+
+These are some of the key findings for this project:
+1. **Banking and Finance** is an excellent industry to be in from a longetivity perspective. 
