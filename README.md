@@ -12,7 +12,9 @@ I have used two different datasets (courtesy of Datacamp).
 
 ## Key Findings
 
-**Business Question that I try to answer: "Perform a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories"**
+**Business Question that I try to answer: "Perform a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories and look for insights in the data to devise strategies to drive growth and retention."**
 
 These are some of the key findings for this project:
-1. **n** is an . 
+1. We will see that there are *33* unique app categories present in our dataset.
+
+2. **Family** and **Game** apps have the highest market prevalence. Interestingly, **Tools**, **Business** and **Medical** apps are also at the top.
