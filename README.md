@@ -12,7 +12,7 @@ I have used two different datasets (courtesy of Datacamp).
 
 ## Key Findings
 
-**Business Question that I try to answer: "Perform a comprehensive analysis of the Android app market "**
+**Business Question that I try to answer: "Perform a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories"**
 
 These are some of the key findings for this project:
 1. **n** is an . 
