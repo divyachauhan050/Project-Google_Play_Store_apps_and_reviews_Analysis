@@ -15,4 +15,4 @@ I have used two different datasets (courtesy of Datacamp).
 **Business Question that I try to answer: "Perform a comprehensive analysis of the Android app market "**
 
 These are some of the key findings for this project:
-1. **Banking and Finance** is an excellent industry to be in from a longetivity perspective. 
+1. **n** is an . 
