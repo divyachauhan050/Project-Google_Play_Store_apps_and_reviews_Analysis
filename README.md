@@ -22,3 +22,7 @@ These are some of the key findings for this project:
 3. Ratings are a key performance indicator of an app. The average volume of ratings across all app categories is *4.17*.
 
 4. The histogram plot is skewed to the left indicating that the majority of the apps are highly rated with only a few exceptions in the low-rated apps.
+   <br> </br>
+   ![app_ratings](https://user-images.githubusercontent.com/75243291/202888380-69ad6b11-685b-4573-b7d4-69a90adaef80.png)
+
+ 
