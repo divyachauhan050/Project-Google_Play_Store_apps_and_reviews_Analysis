@@ -24,5 +24,6 @@ These are some of the key findings for this project:
 4. The histogram plot is skewed to the left indicating that the majority of the apps are highly rated with only a few exceptions in the low-rated apps.
    <br> </br>
    ![app_ratings](https://user-images.githubusercontent.com/75243291/202888380-69ad6b11-685b-4573-b7d4-69a90adaef80.png)
-
+   
+5. Different categories demand different price ranges.
  
