@@ -18,3 +18,7 @@ These are some of the key findings for this project:
 1. We will see that there are *33* unique app categories present in our dataset.
 
 2. **Family** and **Game** apps have the highest market prevalence. Interestingly, **Tools**, **Business** and **Medical** apps are also at the top.
+
+3. Ratings are a key performance indicator of an app. The average volume of ratings across all app categories is *4.17*.
+
+4. The histogram plot is skewed to the left indicating that the majority of the apps are highly rated with only a few exceptions in the low-rated apps.
