@@ -25,5 +25,5 @@ These are some of the key findings for this project:
    <br> </br>
    ![app_ratings](https://user-images.githubusercontent.com/75243291/202888380-69ad6b11-685b-4573-b7d4-69a90adaef80.png)
    
-5. Different categories demand different price ranges such as.
+5. Different categories demand different price ranges.
  
